@@ -1,5 +1,5 @@
 package com.amdocs.training.model;
-
+// This is Model class
 public class Employee {
 
 	private int id;
@@ -7,7 +7,7 @@ public class Employee {
 	private int age;
 	private long phoneNumber;
 	private double salary;
-
+    // Default Constructor
 	public Employee() {
 		super();
 	}
